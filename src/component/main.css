@@ -1,0 +1,14 @@
+.card{
+ margin-top: 15px;
+ margin-right: 25px;
+ margin-bottom: 35px;
+ display: flex;
+ display: inline-block;
+ height: 25vh;
+ border-left-width: medium;
+}
+
+.cardImg{
+    height: 25vh;
+    width: 100%;
+}
